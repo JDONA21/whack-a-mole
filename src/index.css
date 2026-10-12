@@ -5,6 +5,9 @@
 .mole {
   background-image: url("/mole.png");
 }
+.mole:hover {
+  cursor: pointer;
+}
 
 .field {
   display: grid;
